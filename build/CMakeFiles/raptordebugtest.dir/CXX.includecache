@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/toanhoi/Desktop/RaptorDebugTest/main.cpp
+iostream
+-
+stdio.h
+-
+vector
+-
+stdlib.h
+-
+string.h
+-
+queue
+-
+fstream
+-
+sstream
+-
+
